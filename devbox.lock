@@ -1,0 +1,245 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "direnv@latest": {
+      "last_modified": "2024-07-07T07:43:47Z",
+      "resolved": "github:NixOS/nixpkgs/b60793b86201040d9dee019a05089a9150d08b5b#direnv",
+      "source": "devbox-search",
+      "version": "2.34.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/8b283hkzmzmxpsrn5fnwdarw3hw68967-direnv-2.34.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/8b283hkzmzmxpsrn5fnwdarw3hw68967-direnv-2.34.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/fh1bfrgf6p7x88s47bi2bngrqnxss1lk-direnv-2.34.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/fh1bfrgf6p7x88s47bi2bngrqnxss1lk-direnv-2.34.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/sf7h42jldfnyh7cp5v70xac40xs0pqy1-direnv-2.34.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/sf7h42jldfnyh7cp5v70xac40xs0pqy1-direnv-2.34.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/8l9j9kdv9m0z0s30lp4yvrc9s5bcbgmx-direnv-2.34.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/8l9j9kdv9m0z0s30lp4yvrc9s5bcbgmx-direnv-2.34.0"
+        }
+      }
+    },
+    "kubernetes-helm@latest": {
+      "last_modified": "2024-07-13T12:58:17Z",
+      "resolved": "github:NixOS/nixpkgs/b729601a9e6c459fd8884dea513af143111bed54#kubernetes-helm",
+      "source": "devbox-search",
+      "version": "3.15.3",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/z4w7bnylg9h3f543yrf9bcwkxzfs82z2-kubernetes-helm-3.15.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/z4w7bnylg9h3f543yrf9bcwkxzfs82z2-kubernetes-helm-3.15.3"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/aa4jksq9ljgha8plw5cqyxf60n931dir-kubernetes-helm-3.15.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/aa4jksq9ljgha8plw5cqyxf60n931dir-kubernetes-helm-3.15.3"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/5gjk6w3agm49ljiwi991ailvmw35zq1j-kubernetes-helm-3.15.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/5gjk6w3agm49ljiwi991ailvmw35zq1j-kubernetes-helm-3.15.3"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/n4p0zh1s8jz9mqf1r1pki23kviq4waa7-kubernetes-helm-3.15.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/n4p0zh1s8jz9mqf1r1pki23kviq4waa7-kubernetes-helm-3.15.3"
+        }
+      }
+    },
+    "kubie@latest": {
+      "last_modified": "2024-07-07T07:43:47Z",
+      "resolved": "github:NixOS/nixpkgs/b60793b86201040d9dee019a05089a9150d08b5b#kubie",
+      "source": "devbox-search",
+      "version": "0.23.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/nwqdvdlx8sizh68wv2l45qk06dcrl2kc-kubie-0.23.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/nwqdvdlx8sizh68wv2l45qk06dcrl2kc-kubie-0.23.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/9jspc39k4r6yv84m32ivpp83dbjqqn7c-kubie-0.23.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/9jspc39k4r6yv84m32ivpp83dbjqqn7c-kubie-0.23.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/75gm5rccz9nvjrhnmz5p6cknj1w9xdrl-kubie-0.23.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/75gm5rccz9nvjrhnmz5p6cknj1w9xdrl-kubie-0.23.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/pphc0bzbx3c18n0ldb3mirpx642ixi7k-kubie-0.23.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/pphc0bzbx3c18n0ldb3mirpx642ixi7k-kubie-0.23.1"
+        }
+      }
+    },
+    "languagetool@latest": {
+      "last_modified": "2024-07-07T16:08:25Z",
+      "resolved": "github:NixOS/nixpkgs/ab82a9612aa45284d4adf69ee81871a389669a9e#languagetool",
+      "source": "devbox-search",
+      "version": "6.4",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/1a4haq42y03k07yk35hwcmsffxkxm5z3-LanguageTool-6.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/1a4haq42y03k07yk35hwcmsffxkxm5z3-LanguageTool-6.4"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/70h2wyqyf5vk62xn1dc9j0jxxyghaxmk-LanguageTool-6.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/70h2wyqyf5vk62xn1dc9j0jxxyghaxmk-LanguageTool-6.4"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/d637zr7d4ki8v7b857xqglnzp886mzsa-LanguageTool-6.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/d637zr7d4ki8v7b857xqglnzp886mzsa-LanguageTool-6.4"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/qydfdz3yziq2j3bbr6l48hmvgz8y2hcl-LanguageTool-6.4",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/qydfdz3yziq2j3bbr6l48hmvgz8y2hcl-LanguageTool-6.4"
+        }
+      }
+    },
+    "starship@latest": {
+      "last_modified": "2024-07-07T16:08:25Z",
+      "resolved": "github:NixOS/nixpkgs/ab82a9612aa45284d4adf69ee81871a389669a9e#starship",
+      "source": "devbox-search",
+      "version": "1.19.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/gjc4x8bcnv2pvalpy5xd02jrsfyyc3js-starship-1.19.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/gjc4x8bcnv2pvalpy5xd02jrsfyyc3js-starship-1.19.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/9x4j7sx994h54rsmyrrlzhyxnp3a1m80-starship-1.19.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/9x4j7sx994h54rsmyrrlzhyxnp3a1m80-starship-1.19.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/dz6vzhs2sjign045ldh1xv64h4i6l6lj-starship-1.19.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/dz6vzhs2sjign045ldh1xv64h4i6l6lj-starship-1.19.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/0m0l1jvh23lxqa4wv9f3yhxr6ivw14m6-starship-1.19.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/0m0l1jvh23lxqa4wv9f3yhxr6ivw14m6-starship-1.19.0"
+        }
+      }
+    }
+  }
+}
