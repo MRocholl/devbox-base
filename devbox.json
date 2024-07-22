@@ -24,7 +24,10 @@
     "kubie@latest",
     "awscli@latest",
     "teller@latest",
-    "fortune@latest"
+    "fortune@latest",
+    "lazygit@latest",
+    "k9s@latest",
+    "pipx@latest"
   ],
   "env": {
     "DEVBOX_GLOBAL_PREFIX": "$HOME/.local/share/devbox/global/default/.devbox/nix/profile/default",
